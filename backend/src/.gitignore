@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Build files
+dist/
+
+# Upload files
+backend/src/uploads/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
